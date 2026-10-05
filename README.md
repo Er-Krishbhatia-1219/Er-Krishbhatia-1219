@@ -109,7 +109,53 @@ I believe in learning by building — my GitHub repositories showcase hands-on p
 
 <!-- PROJECTS:START -->
 
-Projects are automatically updated by GitHub Actions.
+### [Electricity-Demand-Forcasting](https://github.com/Er-Krishbhatia-1219/Electricity-Demand-Forcasting)
+
+Machine learning project for forecasting electricity demand using historical consumption data, time-series analysis, feature engineering, and predictive modeling.
+
+`Jupyter Notebook`
+
+### [Health-Care-EDA](https://github.com/Er-Krishbhatia-1219/Health-Care-EDA)
+
+Project repository
+
+`Jupyter Notebook`
+
+### [Insurance-Price-Prediction-EDA](https://github.com/Er-Krishbhatia-1219/Insurance-Price-Prediction-EDA)
+
+Project repository
+
+`Jupyter Notebook`
+
+### [Product-Catalog-Analysis](https://github.com/Er-Krishbhatia-1219/Product-Catalog-Analysis)
+
+ Data-driven product catalog analysis covering pricing, profitability, brands, suppliers, and business insights using Pandas & NumPy.
+
+`Jupyter Notebook`
+
+### [E-commerce-Sales-and-Customer-Analysis-Pandas-Numpy](https://github.com/Er-Krishbhatia-1219/E-commerce-Sales-and-Customer-Analysis-Pandas-Numpy)
+
+E-commerce data analysis using Python, Pandas and NumPy with business insights and recommendations.
+
+`Jupyter Notebook`
+
+### [Uber-Sales-Performance-Analytics-Dashboard](https://github.com/Er-Krishbhatia-1219/Uber-Sales-Performance-Analytics-Dashboard)
+
+Analyzed 93K+ completed bookings and ₹51.85M revenue using Power BI. Built interactive dashboards to track KPIs, booking trends, vehicle performance, demand hotspots, and operational efficiency. Generated actionable business insights to support data-driven decision-making and revenue optimization.
+
+`Project`
+
+### [Coffee-Lounge-Sales-Analysis](https://github.com/Er-Krishbhatia-1219/Coffee-Lounge-Sales-Analysis)
+
+Interactive Coffee Lounge Sales Dashboard and Business Insights using Excel.
+
+`Project`
+
+### [Professional-Analytics-Portfolio](https://github.com/Er-Krishbhatia-1219/Professional-Analytics-Portfolio)
+
+Professional Analytics Portfolio is an AI-integrated dashboard showcasing my technical skills, education, analytics projects, resume, and professional profile. Built with a modern responsive UI to present expertise in Data Analytics, SQL, Python, Power BI, and Business Intelligence.
+
+`JavaScript`
 
 <!-- PROJECTS:END -->
 
