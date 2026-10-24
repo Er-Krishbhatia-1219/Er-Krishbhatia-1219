@@ -109,6 +109,12 @@ I believe in learning by building — my GitHub repositories showcase hands-on p
 
 <!-- PROJECTS:START -->
 
+### [Weather-Aware-Power-Cast](https://github.com/Er-Krishbhatia-1219/Weather-Aware-Power-Cast)
+
+Project repository
+
+`Jupyter Notebook`
+
 ### [Electricity-Demand-Forcasting](https://github.com/Er-Krishbhatia-1219/Electricity-Demand-Forcasting)
 
 Machine learning project for forecasting electricity demand using historical consumption data, time-series analysis, feature engineering, and predictive modeling.
